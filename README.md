@@ -5,4 +5,4 @@ Algoritma Caesar cipher memiliki fitur-fitur berikut: </p>
 <li> Ini adalah jenis sandi substitusi sederhana. </li> </p>
 <li> Setiap huruf teks biasa diganti dengan huruf dengan beberapa posisi tetap di bawah alfabet. </li> </p>
 Diagram berikut, menggambarkan cara kerja implementasi algoritma Caesar cipher. </p>
-![Gambar](screenshot/gambar.png) </p>
+![gambar](Screenshot/gambar.png) </p>
