@@ -78,3 +78,8 @@ Anda dapat melihat Caesar cipher, yaitu output seperti yang ditunjukkan pada gam
 
 ![Output](Screenshot/output.png) </p>
 
+<b> Penjelasan... </b> </p>
+<li> Karakter teks biasa dilalui satu per satu. </li> </p>
+<li> Untuk setiap karakter dalam teks biasa yang diberikan, ubah karakter yang diberikan sesuai aturan tergantung pada prosedur enkripsi dan dekripsi teks. </li> </p>
+<li> Setelah langkah-langkah tersebut diikuti, string baru dihasilkan yang disebut sebagai teks sandi. </li> </p>
+
