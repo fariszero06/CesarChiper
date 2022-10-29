@@ -82,4 +82,26 @@ Anda dapat melihat Caesar cipher, yaitu output seperti yang ditunjukkan pada gam
 <li> Karakter teks biasa dilalui satu per satu. </li> </p>
 <li> Untuk setiap karakter dalam teks biasa yang diberikan, ubah karakter yang diberikan sesuai aturan tergantung pada prosedur enkripsi dan dekripsi teks. </li> </p>
 <li> Setelah langkah-langkah tersebut diikuti, string baru dihasilkan yang disebut sebagai teks sandi. </li> </p>
+Cukup sekian penjelasan dari saya, apabila ada kesalahan dari programnya bisa ditanyakan di kolom komentar dibawah. Semoga program dan penjelasan dari saya bermanfaat bagi kalian semua.
+
+![Terimakasih](Screenshot/terimakasih.jpeg) </p>
+
+<html>
+<head><title>ini judul</title></head>
+<body>
+Silahkan Berkomentar<hr/><br/>
+<form>
+<table>
+       <tr>
+         <td>Tulis komentar:</td>
+         <td><textarea cols="30" rows="5"></textarea></td>
+       </tr>
+       <tr>
+         <td><input type="submit" value="Postkan Komentar"/></td>
+         <td><input type="reset" value="hapus"></td>
+        </tr>
+</table>
+</form>
+</body>
+</html>
 
